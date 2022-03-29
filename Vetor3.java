@@ -8,6 +8,7 @@ public class Vetor3 {
                 System.out.println(meses[i]);
             
         }
+        //Print 2° semestre.
         System.out.println("2° semestre");
         for (int i = 6; i < meses.length; i++) {
             System.out.println(meses[i]);
